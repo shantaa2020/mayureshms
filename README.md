@@ -6,3 +6,5 @@ University - Pune University
 Class - SY
 
 City - Pune
+
+State - Maharashtra
